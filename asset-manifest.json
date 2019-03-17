@@ -1,13 +1,13 @@
 {
-  "main.css": "/Namewastook/ToDoPt1git/static/css/main.db9e9b29.chunk.css",
-  "main.js": "/Namewastook/ToDoPt1git/static/js/main.c9db3433.chunk.js",
-  "main.js.map": "/Namewastook/ToDoPt1git/static/js/main.c9db3433.chunk.js.map",
-  "static/js/1.6cb2c942.chunk.js": "/Namewastook/ToDoPt1git/static/js/1.6cb2c942.chunk.js",
-  "static/js/1.6cb2c942.chunk.js.map": "/Namewastook/ToDoPt1git/static/js/1.6cb2c942.chunk.js.map",
-  "runtime~main.js": "/Namewastook/ToDoPt1git/static/js/runtime~main.2b4d0069.js",
-  "runtime~main.js.map": "/Namewastook/ToDoPt1git/static/js/runtime~main.2b4d0069.js.map",
-  "static/css/main.db9e9b29.chunk.css.map": "/Namewastook/ToDoPt1git/static/css/main.db9e9b29.chunk.css.map",
-  "index.html": "/Namewastook/ToDoPt1git/index.html",
-  "precache-manifest.b6a96842efa80b28bef5b9d21ce140c4.js": "/Namewastook/ToDoPt1git/precache-manifest.b6a96842efa80b28bef5b9d21ce140c4.js",
-  "service-worker.js": "/Namewastook/ToDoPt1git/service-worker.js"
+  "main.css": "/ToDoPt1/static/css/main.db9e9b29.chunk.css",
+  "main.js": "/ToDoPt1/static/js/main.fd7b7267.chunk.js",
+  "main.js.map": "/ToDoPt1/static/js/main.fd7b7267.chunk.js.map",
+  "static/js/1.6cb2c942.chunk.js": "/ToDoPt1/static/js/1.6cb2c942.chunk.js",
+  "static/js/1.6cb2c942.chunk.js.map": "/ToDoPt1/static/js/1.6cb2c942.chunk.js.map",
+  "runtime~main.js": "/ToDoPt1/static/js/runtime~main.93e7c7da.js",
+  "runtime~main.js.map": "/ToDoPt1/static/js/runtime~main.93e7c7da.js.map",
+  "static/css/main.db9e9b29.chunk.css.map": "/ToDoPt1/static/css/main.db9e9b29.chunk.css.map",
+  "index.html": "/ToDoPt1/index.html",
+  "precache-manifest.773136ae87740787ff4eb88f0d00ffef.js": "/ToDoPt1/precache-manifest.773136ae87740787ff4eb88f0d00ffef.js",
+  "service-worker.js": "/ToDoPt1/service-worker.js"
 }
